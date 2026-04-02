@@ -1,4 +1,7 @@
 ### A mock demo of a contractor-focused, site-first email workflow.
+https://sitethreadsmock.vercel.app/
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Quick demo; Has mock data and gmail sync is disabled.
 
 ## What is this?
 SiteThreads is a UI prototype that reimagines contractor email around job sites:
