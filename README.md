@@ -62,7 +62,7 @@ npm run dev
 
 4. Open `http://localhost:3000`
 
-## Gmail read sync (prototype)
+## Gmail read sync (prototype - beta)
 
 This build adds a prototype Gmail connection flow.
 
