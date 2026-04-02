@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-A mock demo of a contractor-focused, site-first email workflow.
+### A mock demo of a contractor-focused, site-first email workflow.
 
 ## What is this?
 SiteThreads is a UI prototype that reimagines contractor email around job sites:
