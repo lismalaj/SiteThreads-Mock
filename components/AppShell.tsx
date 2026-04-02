@@ -736,10 +736,16 @@ export default function AppShell() {
             : site,
         ),
       );
-      setPromotedUnmatched((current) => {
-        const withoutExisting = current.filter((entry) => entry.emailId !== item.emailId);
-        return [{ emailId: item.emailId, siteId, linkedAtLabel: timeStamp() }, ...withoutExisting];
-      });
+      const emailId = item.emailId;
+if (!emailId) {
+  console.warn("Cannot promote unmatched email without emailId", item);
+  return;
+}
+
+setPromotedUnmatched((current) => {
+  const withoutExisting = current.filter((entry) => entry.emailId !== emailId);
+  return [{ emailId, siteId, linkedAtLabel: timeStamp() }, ...withoutExisting];
+});
       setSelectedDetachedEmailId(null);
       setSelectedSiteId(siteId);
       setFocusedThreadId(promotedThread.id);
