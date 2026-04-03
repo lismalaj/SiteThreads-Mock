@@ -1,3 +1,10 @@
+
+<img width="1920" height="1080" alt="New Private Tab - Brave 4_3_2026 7_51_00 PM" src="https://github.com/user-attachments/assets/326b78b9-143c-48a4-a657-eba587214f48" />
+
+<img width="1920" height="1080" alt="New Private Tab - Brave 4_3_2026 7_51_21 PM" src="https://github.com/user-attachments/assets/15f642bc-e126-4ec5-bf95-dcc9ad85435a" />
+
+<img width="1920" height="1080" alt="New Private Tab - Brave 4_3_2026 7_51_48 PM" src="https://github.com/user-attachments/assets/f430f216-8fd8-435a-bb98-b328d3aa060e" />
+
 ### A mock demo of a contractor-focused, site-first email workflow.
 https://sitethreadsmock.vercel.app/
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
